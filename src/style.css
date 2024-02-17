@@ -1,0 +1,32 @@
+body {
+  background-color: yellow;
+  font-family: monospace;
+}
+.heading {
+  text-align: center;
+  padding: 60px 20px;
+  margin-bottom: 50px;
+}
+.press {
+  text-align: center;
+}
+.button {
+  padding: 60px;
+  border-radius: 80px;
+  border: 6px solid gray;
+  background-color: lightgoldenrodyellow;
+  font-size: 30px;
+  box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.4);
+}
+.button:hover {
+  padding: 60px;
+  border-radius: 80px;
+  border: 6px solid lightgoldenrodyellow;
+  background-color: gray;
+  font-size: 30px;
+  box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.4);
+}
+.response {
+  padding: 60px;
+  margin: 40px 40px;
+}
